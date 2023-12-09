@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "product 1",
+      "price": 120,
+      "description": "this is a test"
+    }
+  ],
+  "variants": [
+    {
+      "id": 1,
+      "productId": 1,
+      "name": "product 1 variant 1"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "name": "product 1 variant 2"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "name": "product 1 variant 3"
+    }
+  ]
+}
